@@ -1,3 +1,4 @@
+[![Build Status](https://macielprojects.visualstudio.com/Space%20Game%20Web%20Pipeline/_apis/build/status%2FMacielMjose.mslearn-tailspin-spacegame-web?branchName=main)](https://macielprojects.visualstudio.com/Space%20Game%20Web%20Pipeline/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
